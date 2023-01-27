@@ -2,7 +2,7 @@ colored
 flaky==3.7.0
 numpy
 onnx_graphsurgeon>=0.3.21
-onnx==1.10.0
+onnx==1.13.0
 onnxconverter_common==1.12.2
 onnxmltools==1.11.1
 onnxruntime==1.10.0
