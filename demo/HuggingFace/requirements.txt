@@ -20,7 +20,7 @@ sentencepiece==0.1.95; python_version<"3.10"
 sentencepiece==0.1.97; python_version>="3.10"
 --extra-index-url https://pypi.ngc.nvidia.com
 onnx==1.9.0; python_version<"3.8"
-onnx==1.12.0; python_version>="3.8"
+onnx==1.13.0; python_version>="3.8"
 polygraphy>=0.42.2
 tabulate
 toml
