@@ -1,6 +1,6 @@
 onnx==1.10.2; python_version<"3.10"
 onnx==1.12.0; python_version=="3.10"
-tensorflow-gpu==2.9.1; (platform_machine=="x86_64" and sys.platform=="linux" and python_version>="3.7")
+tensorflow-gpu==2.12.0; (platform_machine=="x86_64" and sys.platform=="linux" and python_version>="3.7")
 onnxruntime==1.8.1; python_version<"3.10"
 onnxruntime==1.12.1; python_version=="3.10"
 -f https://download.pytorch.org/whl/cu113/torch_stable.html
